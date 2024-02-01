@@ -10,7 +10,8 @@ For a better experience, while using our Service, I may require you to provide u
 The app does use third party services that may collect information used to identify you.
 
 ## Link to privacy policy of third party service providers used by the app
-* [Unity Ads](https://unity3d.com/legal/privacy-policy)
+* [Unity](https://unity3d.com/legal/privacy-policy)
+* [Yandex](https://yandex.ru/legal/confidential/?lang=en)
 
 ## Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
