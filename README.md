@@ -1,38 +1,74 @@
 # Privacy Policy
-Mobile Simulated built the "Case Simulator Stan Box" app as an Ad Supported app. This SERVICE is provided by Mobile Simulated at no cost and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at "Case Simulator Stan Box" unless otherwise defined in this Privacy Policy.
 
+This privacy policy applies to the **Case Simulator Stan Box** app (hereafter referred to as "Application") for mobile devices, created by **Mobile Simulated** (hereafter referred to as "Service Provider") as an ad-supported service. This service is provided **"AS IS"**.
 
 ## Information Collection and Use
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
-The app does use third party services that may collect information used to identify you.
 
-## Link to privacy policy of third party service providers used by the app
-* [Unity](https://unity3d.com/legal/privacy-policy)
-* [Yandex](https://yandex.ru/legal/confidential/?lang=en)
+The Application collects information you provide when downloading and registering the Application. Registration with the Service Provider is not mandatory. However, some features of the Application may be unavailable unless you register.
 
-## Cookies
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The Service Provider may use the information you provide to contact you with important updates, notices, or marketing promotions.
 
-## Service Providers
-I may employ third-party companies and individuals due to the following reasons:
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Additionally, the Application may collect certain information automatically, including, but not limited to:
+
+- The type of mobile device you use;
+- Your device's unique ID;
+- Your device's IP address;
+- Your mobile operating system;
+- The type of mobile internet browser you use;
+- Usage data about the Application.
+
+**Note**: The Application does not collect precise location information about your mobile device.
+
+However, approximate location data may be gathered and used for the following purposes:
+
+1. **Geolocation Services**: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+2. **Analytics and Improvements**: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+3. **Third-Party Services**: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+
+## Third Party Access
+
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [Yandex](https://yandex.ru/legal/confidential/?lang=en)
+
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+## Opt-Out Rights
+
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+## Data Retention Policy
+
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at mobilesimuldated@gmail.com and they will respond in a reasonable time.
+
+## Children
+
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (mobilesimuldated@gmail.com) so that they will be able to take the necessary actions.
 
 ## Security
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-## Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
-## Changes to This Privacy Policy
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+## Changes
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2024-11-22
+
+## Your Consent
+
+By using the Application, you are giving your consent to the Service Provider for the processing of your information as set forth in this Privacy Policy, now and as amended by us. 'Processing' includes, but is not limited to, actions such as collecting, storing, deleting, using, combining, and disclosing information, as well as the use of cookies on a computer or handheld device.
 
 ## Contact Us
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at mobilesimuldated@gmail.com.
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at mobilesimuldated@gmail.com.
